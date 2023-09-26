@@ -1,2 +1,2 @@
-# Linkedin_Python_Basics
+# Linkedln_Python_Basics
 Curso gratuito fornecido pelo linkedin
